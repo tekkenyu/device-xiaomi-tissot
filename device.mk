@@ -95,3 +95,8 @@ $(call inherit-product, build/target/product/verity.mk)
 # Camera
 PRODUCT_PACKAGES += \
     Gcam
+
+# Wallpapers
+PRODUCT_PACKAGES += \
+    WallpapersBReel2018
+    
